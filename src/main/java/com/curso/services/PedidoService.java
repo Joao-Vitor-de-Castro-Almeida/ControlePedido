@@ -27,7 +27,7 @@ public class PedidoService {
 
     public Pedido findById(Long id){
         Optional<Pedido> obj = pedidoRepo.findById(id);
-        return obj.orElseThrow(() -> new ObjectNotFoundException("Diretor não encontrado! Id:" + id));
+        return obj.orElseThrow(() -> new ObjectNotFoundException("Pedido não encontrado! Id:" + id));
     }
 
 

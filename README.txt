@@ -28,13 +28,13 @@ Um pedido aguardando pagamento pode ser:
 
 Marcado como pago
 
-Cancelado
+Marcado como cancelado
 
 Um pedido pago pode ser:
 
-Enviado
+Marcado como enviado
 
-Cancelado
+Marcado como cancelado
 
 Um pedido enviado ou cancelado não pode sofrer novas alterações.
 

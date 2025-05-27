@@ -1,4 +1,4 @@
-package com.curso.domains.MetodoEnvio;
+package com.curso.enums;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

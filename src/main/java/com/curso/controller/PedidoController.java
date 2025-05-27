@@ -1,4 +1,4 @@
-package com.curso.resources;
+package com.curso.controller;
 
 import com.curso.domains.Pedido;
 import com.curso.domains.dtos.PedidoDTO;
@@ -17,7 +17,7 @@ import java.util.List;
 @RestController
 @RequestMapping(value = "/pedido")
 @Tag(name = "Pedido", description = "API para gerenciamento de Pedidos")
-public class PedidoResouce {
+public class PedidoController {
 
     @Autowired
     private PedidoService pedidoService;

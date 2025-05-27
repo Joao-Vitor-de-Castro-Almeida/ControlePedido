@@ -1,8 +1,8 @@
 package com.curso.domains.dtos;
 
-import com.curso.domains.MetodoEnvio.MetodoEnvio;
+import com.curso.enums.MetodoEnvio;
 import com.curso.domains.Pedido;
-import com.curso.domains.StatusPedido.EstadoPedido;
+import com.curso.enums.EstadoPedido;
 import jakarta.validation.constraints.Digits;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

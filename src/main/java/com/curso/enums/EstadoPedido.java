@@ -1,4 +1,4 @@
-package com.curso.domains.StatusPedido;
+package com.curso.enums;
 
 public enum EstadoPedido {
 

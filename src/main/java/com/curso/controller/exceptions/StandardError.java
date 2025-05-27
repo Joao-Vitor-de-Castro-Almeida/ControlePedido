@@ -1,4 +1,4 @@
-package com.curso.resources.exceptions;
+package com.curso.controller.exceptions;
 
 import java.io.Serializable;
 

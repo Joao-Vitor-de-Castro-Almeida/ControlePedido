@@ -1,4 +1,4 @@
-package com.curso.ControlePedido;
+package com.curso;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

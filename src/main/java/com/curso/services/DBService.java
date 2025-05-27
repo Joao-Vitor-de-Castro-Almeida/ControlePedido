@@ -1,6 +1,6 @@
 package com.curso.services;
 
-import com.curso.domains.MetodoEnvio.MetodoEnvio;
+import com.curso.enums.MetodoEnvio;
 import com.curso.domains.Pedido;
 import com.curso.repositories.PedidoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
